@@ -20,10 +20,10 @@ const Achievements = () => {
                             
                         </Grid>
                         <Grid item xs={12} md={4}>
-                            <Achievement image={Star} headline="START PERFORMER(NOV 2018)"/>
+                            <Achievement image={Star} headline="STAR PERFORMER(NOV 2018)"/>
                         </Grid>
                         <Grid item xs={12} md={4}>
-                            <Achievement  image={Starp} headline="START PERFORMER(JUN 2018)" />
+                            <Achievement  image={Starp} headline="STAR PERFORMER(JUN 2018)" />
                         </Grid>
                         <Grid item xs={12} md={4}>
                             <Achievement image={gold} headline="BEST TEAM"/>
